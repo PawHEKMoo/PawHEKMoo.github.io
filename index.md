@@ -12,7 +12,6 @@ Hi! I am a student at MSU Denver with a major in environmental science and a min
 Metropolitan State University of Denver (class of 2024)
   * Major: Environmental Science B.S. 
     * Minor: Biology
-#### Experience
-* 
 
 #### Exciting things about me
+* I was born in Thailand but have lived in Colorado my entire life. 
