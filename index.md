@@ -13,5 +13,5 @@ Metropolitan State University of Denver (class of 2024)
   * Major: Environmental Science B.S. 
     * Minor: Biology
 
-#### Exciting things about me
+#### Fun facts about me
 * I was born in Thailand but have lived in Colorado my entire life. 
