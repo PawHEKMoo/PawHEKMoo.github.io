@@ -5,7 +5,7 @@ Hi! I am a student at MSU Denver with a major in environmental science and a min
 <img src="img/me.jpeg" height="500px" />
 
 #### Contact Information
-* Email: pmoo1@msudenver.edu
+* Email: pmoo1atmsudenver.edu
 * [GitHub](https://PawHEKMoo.github.io)
 
 #### Educational Background
