@@ -15,5 +15,5 @@ Metropolitan State University of Denver (class of 2024)
   * Major: Environmental Science B.S. 
     * Minor: Biology
 
-#### Fun facts about me
-* I was born in Thailand but have lived in Colorado my entire life. 
+#### Map of MSUD
+<embed type="text/html" src="img/auraria.html" width="600" height="600">
