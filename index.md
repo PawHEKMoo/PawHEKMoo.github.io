@@ -17,3 +17,6 @@ Metropolitan State University of Denver (class of 2024)
 
 #### Map of MSUD
 <embed type="text/html" src="img/auraria.html" width="600" height="600">
+
+### ESIIL Stars Projects
+Check out my first ESIIL assignment! <a href= "https://PawHEKMoo.github.io/notebooks/get-started-with-open-reproducible-science.html"> Reproducible Climate Analysis </a>
