@@ -20,3 +20,5 @@ Metropolitan State University of Denver (class of 2024)
 
 ### ESIIL Stars Projects
 Check out my first ESIIL assignment! <a href= "https://PawHEKMoo.github.io/notebooks/get-started-with-open-reproducible-science.html"> Reproducible Climate Analysis </a>
+
+Chek out my second ESIIL assignment! <a href= "https://PawHEKMoo.github.io/notebooks/species-distribution.html"> Mapping Western Meadowlark Migration </a>
