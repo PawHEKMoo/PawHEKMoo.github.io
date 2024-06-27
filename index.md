@@ -23,6 +23,6 @@ Check out my first ESIIL assignment! <a href= "https://PawHEKMoo.github.io/noteb
 
 Check out my second ESIIL assignment! <a href= "https://PawHEKMoo.github.io/notebooks/species-distribution.html"> Mapping Western Meadowlark Migration </a>
 
-Here is an interactive map <a href= "https://PawHEKMoo.github.io/notebooks/migration.html"> Western Meadowlark (Tasiyagnunpa) Migration! </a>
+* Here is an interactive map <a href= "https://PawHEKMoo.github.io/notebooks/migration.html"> Western Meadowlark (Tasiyagnunpa) Migration! </a>
 
-Check out my third ESIIL assignment! <a href= "https://PawHEKMoo.github.io/notebooks/vegetation.html"> Cameron Peak Fire </a>
+Check out my third ESIIL assignment that explores the NDVI before and after the Cameron Peak Fire. <a href= "https://PawHEKMoo.github.io/notebooks/vegetation.html"> Cameron Peak Fire </a>
